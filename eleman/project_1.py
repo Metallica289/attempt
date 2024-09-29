@@ -1,3 +1,4 @@
+#ProjectEuler , Soru 41 , Pandijital Asal.
 def carpanlara_ayirma(n):
     esler = []
     for i in range(2, int(n**0.5)+1):
